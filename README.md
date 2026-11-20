@@ -1,15 +1,14 @@
-# CleanNeighbourhood
-
-A simple browser-based community waste-reporting website for a student project.
+#  The CleanNeighbourhood
+It is a simple webpage that enables us to keep our environment clean and eradicate pollution.
 
 ## Social problem
 Littering, illegal dumping and uncollected waste can affect public spaces and the environment. This project gives residents a simple way to record a waste concern, add an area, and view reports on a community board.
 
 ## Pages
-- **Home:** introduces the problem and the project.
-- **Report an issue:** form for recording a local waste concern.
-- **Community board:** shows reports saved in the current browser.
-- **About:** explains the project and its technology.
+- Home page: introduces the problem and the project.
+- Report an issue: form for recording a local waste concern.
+- Community board: shows reports saved in the current browser.
+- About page: explains the project and its technology.
 
 ## Technologies
 - HTML: website structure and forms.
